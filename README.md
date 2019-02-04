@@ -15,3 +15,7 @@ A vector called 'combined_data' concatenates the above variables into one datafi
 - Please indicate the participant you would like to visualise the allocentric map response for. 
 - Blue circles are for the correct location. Red circles indicate participant responses. Line between the circles is the drop error. 
 
+# 4. Visualizating_data (Allocentric map response for group error)
+ Blue circles are for the correct location. Red circles indicate the mean drop error in the group
+ 
+# 5. Visualizating_data (Heatmap indicates centre vs. peripheral environment)
